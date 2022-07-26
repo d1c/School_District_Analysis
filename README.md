@@ -22,6 +22,12 @@ Toward the end of the analysis, the School Board informed the team that due to a
 * How is the School Summary affected?
   * Comparing the School Summary analysis, academic dishonesty at Thomas High School significantly impacted the "% Passing" Math and Reading metrics. For example, the "% Passing Math Score" went down from 93.3% to 66.9%. while the "% Passing Reading" metric showed a similar drop from 97.3% to 69.7%. The percentage of students at Thomas High School passing both subjects dropped from 90.9% to 65.1%.
 
+  * School Summary - Original Analysis
+    * ![District Summary - Original Analysis](/Resources/School_Summary_Original_Analysis.png)
+
+  * School Summary - Revised Analysis
+    * ![District Summary - Revised Analysis](/Resources/School_Summary_Modified_Analysis.png)
+
 * How does replacing the ninth graders' math & reading scores affect Thomas High School's performance relative to the other schools.
   * Leaving the ninth grade students in the calculations, Thomas High School's performance dropped from the 2nd overall ranking based on "% Overall Passing." However, when the ninth graders are removed leavng only the 10th through 12th grade students in the calculation, Thomas High School maintains its #2 ranking of High School in the District.
 
