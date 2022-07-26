@@ -10,7 +10,7 @@ Near the end of the analysis, the School Board informed the team that due to aca
 
 ### How is the District Summary affected?
 
-  * The impact of dropping the test scores for one grade level at one High School were negligible. The count of students that took the tests went down from 39,170 to 38,709 representing 1.2% of total High School students in the District.
+  * The impact of dropping the test scores for one grade level for one High School were negligible. The count of students that took the tests went down from 39,170 to 38,709 representing 1.2% of total High School students in the District.
 
   * The Average test scores and percent of students passing each subject were also negligible. The "% Overall Passing" metric was impacted down by only a tenth of a percent.
 
@@ -22,7 +22,10 @@ Near the end of the analysis, the School Board informed the team that due to aca
 
 
 ### How is the School Summary affected?
-  * Comparing the School Summary analysis, academic dishonesty at Thomas High School significantly impacted the "% Passing" Math and Reading metrics. For example, the "% Passing Math Score" went down from 93.3% to 66.9%. while the "% Passing Reading" metric showed a similar drop from 97.3% to 69.7%. The percentage of students at Thomas High School passing both subjects dropped from 90.9% to 65.1%. See the tables below for additional detail.
+  * Only Thomas High School test scores and passing percentages were impacted by the change.
+  * However, even the changes to Thomas High School were negligible.
+    * For example. the original analysis showed Thomas High School's "% Overall Passing" metric at 90.95%. The revised analysis brought that metric down to only 90.63%^.
+  * See the complete tables below for the full results.
 
   * School Summary - Original Analysis
     * ![District Summary - Original Analysis](/Resources/School_Summary_Original_Analysis.png)
@@ -41,4 +44,12 @@ Near the end of the analysis, the School Board informed the team that due to aca
 
 ## Summary
 
-Summarize the four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been were replaced with NaNs.
+To complete the revised analysis, multiple changes had to be made to the data and the original analysis. 
+
+First, all math and reading scores for 9th Grade Students at Thomas High School were removed from the dataset.
+
+As a result of that change, the total student count of High School students had to be revised to show only the number of students who now had test scores.
+
+Perhaps the most noticible change is to the table showing "Test Scores by Grade" since the Thomas High 9th Grade students do not have a score.
+
+Overall, since the Thomas High 9th Grade students only represented 1.2% of total High School students in the District, the impact to the overall District wide scores were negligible.
