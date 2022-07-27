@@ -2,15 +2,15 @@
 
 ## Project Overview
 
-The purpose of this project is to use data about the High Schools and the students of these schools to analyze their performance in math and reading. During the analysis answers to questions such as "how does school size" and "how does school funding" impact test scores. The analysis will be provided to the District School Board to assist in making planning decisions regarding student and school funding.
+The purpose of this project is to use data about the High Schools and their students to analyze their performance in math and reading. During the analysis answers to how factors such as school size and school funding impact test scores. The analysis will then be provided to the District School Board to assist them in making planning decisions regarding student and school funding.
 
-Near the end of the analysis, the School Board informed the team that due to academic dishonesty all test scores for Ninth grade students at Thomas High School will need to be discarded. The School Board asked us to discard those scores and rerun the analysis and report how the changes impacted the analysis.
+Close to the end of the initial analysis, the School Board informed the team that due to academic dishonesty all test scores for Ninth grade students at Thomas High School will be discarded. The School Board asked for the analysis to be rerun after the test scores were discarded and report how the changes impacted the analysis.
 
 ## Results of Analysis
 
 ### How is the District Summary affected?
 
-  * The impact of dropping the test scores for one grade level for one High School were negligible. The count of students that took the tests went down from 39,170 to 38,709 representing 1.2% of total High School students in the District.
+  * The impact of dropping the test scores for one grade level from one High School were negligible. The count of students that took the tests went down from 39,170 to 38,709 representing ~1.2% of total High School students in the District.
 
   * The Average test scores and percent of students passing each subject were also negligible. The "% Overall Passing" metric was impacted down by only a tenth of a percent.
 
