@@ -34,19 +34,19 @@ Close to the end of the initial analysis, the School Board informed the team tha
 
 ### How does replacing the ninth graders' math & reading scores affect Thomas High School's performance relative to the other schools.
   * Had the number of ninth grade students not been dropped from the calculations, Thomas High School would have dropped from the 2nd overall ranking to 8th place based on the "% Overall Passing" metric.
-  * However, removing the number of 9th grade students, THomas High School remains as the 2nd highest performing school.
+  * However, removing the number of 9th grade students, Thomas High School remained as the 2nd highest performing school.
 
 ### How does replacing the ninth-grade scores affect the following:
   * Math & Reading scores by grade?
     * Thomas High School 9th Grade shows no result compared to all other schools. 
   * Scores by school spending? By School Size? and By School Type
-    * The test scores broken down by school spending, school size and school type were not impacted by the change to remove Thomas High School 9th grade students from the calculations.
+    * As reported above, the changes in these three reports were negligible to the point where I would say they were not impacted by dropping the students scores from the analysis.
+
+    The test scores broken down by school spending, school size and school type were not impacted by the change to remove Thomas High School 9th grade students from the calculations.
 
 ## Summary
 
-To complete the revised analysis, multiple changes had to be made to the data and the original analysis. 
-
-First, all math and reading scores for 9th Grade Students at Thomas High School were removed from the dataset.
+To complete the revised analysis, multiple changes had to be made to the data and the original analysis. First, all math and reading scores for 9th Grade Students at Thomas High School were removed from the dataset. 
 
 As a result of that change, the total student count of High School students had to be revised to show only the number of students who now had test scores.
 
